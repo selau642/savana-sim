@@ -1,0 +1,41 @@
+coordinate_system: cartesian_meters
+graphs:
+  {}
+levels:
+  L1:
+    doors:
+      - [4, 5, {motion_axis: [1, start], motion_degrees: [3, 90], motion_direction: [2, 1], name: [1, main_door], plugin: [1, normal], right_left_ratio: [3, 1], type: [1, double_hinged]}]
+    drawing:
+      filename: 
+    elevation: 0
+    floors:
+      - parameters: {ceiling_scale: [3, 1], ceiling_texture: [1, blue_linoleum], indoor: [2, 0], texture_name: [1, blue_linoleum], texture_rotation: [3, 0], texture_scale: [3, 1]}
+        vertices: [6, 7, 8, 9]
+    lanes:
+      - [0, 1, {bidirectional: [4, true], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""], speed_limit: [3, 0]}]
+      - [0, 2, {bidirectional: [4, true], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""], speed_limit: [3, 0]}]
+      - [2, 3, {bidirectional: [4, true], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""], speed_limit: [3, 0]}]
+      - [3, 1, {bidirectional: [4, true], demo_mock_floor_name: [1, ""], demo_mock_lift_name: [1, ""], graph_idx: [2, 0], orientation: [1, ""], speed_limit: [3, 0]}]
+    layers:
+      {}
+    measurements:
+      - [0, 1, {distance: [3, 10]}] 
+    models:
+      - {model_name: pine_tree, name: SpaceTree, static: true, x: 20 , y: 20, yaw: 0, z: 10}
+    vertices:
+      - [10,10,0, bottom_left, {is_charger: [4, true], is_holding_point: [4, true], is_parking_spot: [4, true]}]
+      - [10,30,0, bottom_right, {is_charger: [4, true], is_holding_point: [4, true], is_parking_spot: [4, true], spawn_robot_name: [1, tinyRobot1], spawn_robot_type: [1, TinyRobot]}]
+      - [30,10,0, top_left, {is_charger: [4, true], is_holding_point: [4, true], is_parking_spot: [4, true]}]
+      - [30,30,0, top_right, {is_charger: [4, true], is_holding_point: [4, true], is_parking_spot: [4, true], spawn_robot_name: [1, tinyRobot2], spawn_robot_type: [1, TinyRobot]}]
+      - [3,3,0, start_m]
+      - [6,6,0, end_m]
+      - [0,0,0, ""]
+      - [50,0,0, ""]
+      - [50,50,0, ""]
+      - [0,50,0, ""]
+      - [40,10,0, ""]
+      - [45,10,0, ""]
+    walls:
+      - [10, 11,  {alpha: [3, 1], texture_height: [3, 2.5], texture_name: [1, default], texture_scale: [3, 1], texture_width: [3, 1]}]
+lifts: {}
+name: building

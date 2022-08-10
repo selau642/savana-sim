@@ -1,0 +1,26 @@
+2022-08-10 22:24:05,758 DEBUG  ROS Time: 0 | active tasks: 0 | terminated tasks: 0 | active robots: 0
+2022-08-10 22:24:07,761 DEBUG  ROS Time: 0 | active tasks: 0 | terminated tasks: 0 | active robots: 0
+2022-08-10 22:24:08,446 ERROR The WebSocket transport is not available, you must install a WebSocket server that is compatible with your async mode to enable it. See the documentation for details. (further occurrences of this error will be logged with level INFO)
+2022-08-10 22:24:09,768 DEBUG  ROS Time: 1 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:11,774 DEBUG  ROS Time: 4 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:13,780 DEBUG  ROS Time: 6 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:15,786 DEBUG  ROS Time: 8 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:17,792 DEBUG  ROS Time: 9 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:19,798 DEBUG  ROS Time: 11 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:21,803 DEBUG  ROS Time: 13 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:23,809 DEBUG  ROS Time: 15 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:25,814 DEBUG  ROS Time: 17 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:27,820 DEBUG  ROS Time: 19 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:29,827 DEBUG  ROS Time: 21 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:31,830 DEBUG  ROS Time: 23 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:33,834 DEBUG  ROS Time: 25 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:35,840 DEBUG  ROS Time: 27 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:37,845 DEBUG  ROS Time: 29 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:39,849 DEBUG  ROS Time: 32 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:41,853 DEBUG  ROS Time: 34 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:43,858 DEBUG  ROS Time: 36 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:45,864 DEBUG  ROS Time: 38 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:47,870 DEBUG  ROS Time: 40 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:49,874 DEBUG  ROS Time: 42 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:51,880 DEBUG  ROS Time: 44 | active tasks: 0 | terminated tasks: 0 | active robots: 2
+2022-08-10 22:24:54,113 DEBUG  ROS Time: 44 | active tasks: 0 | terminated tasks: 0 | active robots: 2

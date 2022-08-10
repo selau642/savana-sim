@@ -1,0 +1,23 @@
+{
+  "world_name" : "",  
+  "valid_task": ["Loop"],
+  "task": {
+    "Delivery":{},
+    "Loop": {
+      "places": [
+        "bottom_left",
+        "bottom_right",
+        "top_left",
+        "top_right"
+      ]
+    },
+    "Clean": {
+    },
+    "Station": {
+    },
+    "Patrol": {
+    },
+    "Charging": {
+    }
+  }
+}
