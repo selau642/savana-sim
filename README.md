@@ -1,9 +1,19 @@
 # Mission
 To ensure the survival of human race, we need to make Space Construction Vehicles(SCVs) harvest minerals faster
 
-This program is to train SCVs to drive as fast as possible on the race track
+This program is to train SCVs to drive as fast as possible on the Motorball Race Track
 
 May the fastest SCV wins! 
+
+# Screenshots
+Task Input Dashboard
+![Dashboard](screenshots/dashboard.jpg?raw=true "Dashboard")
+
+Map
+![Rviz Motorball Track](screenshots/scv_moving.jpg?raw=true "Rviz Motorball Track")
+
+3d Sim World
+![3d Sim World](screenshots/3dgazebo.jpg?raw=true "3d Sim World")
 
 # Prerequisite
 Make sure you have the following installed
