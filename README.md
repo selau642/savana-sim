@@ -25,7 +25,7 @@ SCV ready!
 # Give SCVs Instructions to work
 https://open-rmf.github.io/rmf-panel-js/
 
-Send Loop tasks to make it move around
+Send Loop tasks to make SCVs move around
 
 # Make Your Own World
 1. Change the map moondance.map.yaml
